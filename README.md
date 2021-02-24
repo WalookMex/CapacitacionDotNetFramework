@@ -3,6 +3,12 @@
     Capacitacion de .Net (Framework)
 </h1>
 
+- [Introduccion a .Net](#introduccion-a-net)
+- [Respecto a la libreria de clases de .NET](#respecto-a-la-libreria)
+
+<a name="introduccion-a-net"></a>
+## Introducion a .Net Framework
+
 .NET (pronunciado dotnet) Framework es una plataforma de desarrollo que permite la creacion y ejecucion de servicios web y aplicaciones en el sistema operativo windows. DotNet framework se ofrece lo siguiente:
 
 - Un entorno de programacion orientada a objetos coherente en el que el codigo de los objetos se puede almacenar y ejecutar de forma local, ejecutar de forma local pero distribuida en internet o ejecutar de forma remota.
@@ -26,7 +32,8 @@ La siguiente ilustracion nos muestra un poco mas de la relacion entre el CLR y l
     <img src="images/clrclassrelation.gif" width="400px"/>
 </p>
 
-<h2>Respecto a la libreria de clases de .NET</h2>
+<a name="respecto-a-la-libreria"></a>
+## Respecto a la libreria de clases de .NET
 
 Como se dijo anteriormente, la libreria de clases de .NET Framework es una coleccion de herramientas reutilizables que se integran con el CLR. 
 
